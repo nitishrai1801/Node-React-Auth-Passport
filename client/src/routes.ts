@@ -43,13 +43,13 @@ const routes: Array<Route> = [
         enabled: true,
         component: Auth
     },
-    {
-        key: "route-payment",
-        title: "Payment",
-        path: "/payment",
-        enabled: true,
-        component: Payment
-    },
+    // {
+    //     key: "route-payment",
+    //     title: "Payment",
+    //     path: "/payment",
+    //     enabled: true,
+    //     component: Payment
+    // },
     {
         key: "route-RestaurantFind",
         title: "Restaurant List",
